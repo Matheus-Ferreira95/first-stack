@@ -1,0 +1,3 @@
+[submodule "stk-demo"]
+	path = stk-demo
+	url = https://github.com/Matheus-Ferreira95/stk-demo
